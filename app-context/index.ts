@@ -1,5 +1,4 @@
 import * as DataLoader from 'dataloader';
-import * as _ from 'lodash';
 import { FoodRecord } from '../data-store';
 
 interface AppContext {
