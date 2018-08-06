@@ -1,3 +1,4 @@
+// Data Store - this is just a quick in-memory data storage module for demonstration purposes.
 import * as _ from 'lodash';
 
 export interface FoodRecord {
